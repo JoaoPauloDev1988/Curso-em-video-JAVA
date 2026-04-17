@@ -12,7 +12,7 @@ public class TesteTipos {
         int valor2 = Integer.parseInt(idade1);
         System.out.println(valor2);
 
-        String valor3 = "30.5";// Convertendo uma String para float
+        String valor3 = "30.5";// Convertendo uma String para float 
         float valor4 = Float.parseFloat(valor3);
         System.out.println(valor4);
     }
