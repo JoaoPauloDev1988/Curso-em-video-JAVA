@@ -1,4 +1,4 @@
-package primeiroprograma;
+package PrimeiroPrograma; // Declaração do pacote "primeiroprograma"
 public class PrimeiroPrograma {    
     public static void main(String[] args) {
         System.out.print("Olá, mundo!");// Imprime a mensagem "Olá, mundo!" na tela

@@ -1,4 +1,4 @@
-package primeiroprograma;
+package TesteTipos;
 
 public class TesteTipos {
     
